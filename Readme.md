@@ -19,4 +19,4 @@ therefore, must learn on their own using trial and error.
 
 
 
-<p>The detailed information can be viewed here <a href="https://docs.google.com/spreadsheets/d/1-vGi9gWg968efMu_E2movW1HngzOYzD_JbPuPdb2kik/export?format=pdf" target="_blank"> Analysis</a></p>
+<p>The detailed information can be viewed here <a href="https://docs.google.com/spreadsheets/d/1-vGi9gWg968efMu_E2movW1HngzOYzD_JbPuPdb2kik/edit?usp=sharing" target="_blank"> Analysis</a></p>
