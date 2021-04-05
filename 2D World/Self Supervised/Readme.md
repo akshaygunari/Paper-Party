@@ -6,5 +6,4 @@
 
 
 <h1>A Simple Framework for Contrastive Learning of Visual Representations</h1>
-<iframe src="A Simple Framework for Contrastive Learning of Visual Representations.pdf" width="100%" height="500px">
-</iframe>
+<iframe src="A Simple Framework for Contrastive Learning of Visual Representations.pdf" width="100%" height="500px"></iframe>
